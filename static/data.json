@@ -1,0 +1,64 @@
+{
+    "data":[
+        {
+            "Q": "病院/びょういん",
+            "A": "醫院/byouinn",
+            "num": 1,
+            "isKnown":false
+        },
+        {
+            "Q": "店/みせ",
+            "A": "店/mise",
+            "num": 2,
+            "isKnown":false
+        },
+        {
+            "Q": "駅/えき",
+            "A": "車站/eki",
+            "num": 3,
+            "isKnown": false
+        },
+        {
+            "Q": "道/みち",
+            "A": "道路/michi",
+            "num": 4,
+            "isKnown": false
+        },
+        {
+            "Q": "家/いえ",
+            "A": "家/ie",
+            "num": 5,
+            "isKnow": false
+        },
+        {
+            "Q": "部屋/へや",
+            "A": " 房間/heya",
+            "num": 6,
+            "isKnow": false
+        },
+        {
+            "Q": "建物/たてもの",
+            "A": "建築物/tatemono",
+            "num": 7,
+            "isKnown": false
+        },
+        {
+            "Q": "レストラン/れすとらん",
+            "A": "餐廳/resutorann",
+            "num": 8,
+            "isKnown": false
+        },
+        {
+            "Q": "会社/かいしゃ",
+            "A": "公司/kaisya",
+            "num": 9,
+            "isKnown": false
+        },
+        {
+            "Q": "銀行/ぎんこう",
+            "A": "銀行/ginnkou",
+            "num": 10,
+            "isKnown": false
+        }
+    ]
+}

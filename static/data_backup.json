@@ -1,0 +1,64 @@
+{
+    "data":[
+        {
+            "Q": "第一題",
+            "A": "321",
+            "num": 1,
+            "isKnown":false
+        },
+        {
+            "Q": "怎麼定義vue-router的動態路由？怎麼獲取傳過來的動態引數?",
+            "A": "在router目錄下的index.js檔案中，對path屬性加上/:id。  使用router物件的params.id",
+            "num": 2,
+            "isKnown":false
+        },
+        {
+            "Q": "scss是什麼？",
+            "A": "``",
+            "num": 3,
+            "isKnown": false
+        },
+        {
+            "Q": "v-model是什麼？怎麼使用？ vue中標籤怎麼繫結事件？",
+            "A": "可以實現雙向繫結，指令（v-class、v-for、v-if、v-show、v-on）。vue的model層的data屬性,繫結事件：<input @click=doLog() />",
+            "num": 2,
+            "isKnown": false
+        },
+        {
+            "Q": "scss安裝使用的步驟是？",
+            "A": "第一步：用npm 下三個loader（sass-loader、css-loader、node-sass)第二步：在build目錄找到webpack.base.config.js，在那個extends屬性中加一個拓展.scss第三步：還是在同一個檔案，配置一個module屬性第四步：然後在元件的style標籤加上lang屬性 ，例如：lang='scss'",
+            "num": 2,
+            "isKnow": false
+        },
+        {
+            "Q": "scss有哪些特性?",
+            "A": " 1、可以用變數，例如($變數名稱=值) 2、可以用混合器3、可以巢狀",
+            "num": 2,
+            "isKnow": false
+        },
+        {
+            "Q": "axios是什麼？怎麼使用？",
+            "A": "請求後臺資源的模組。npm install axios -S裝好，然後傳送的是跨域，需在配置檔案中config/index.js進行設定",
+            "num": 1,
+            "isKnown": false
+        },
+        {
+            "Q": "mvvm框架是什麼？",
+            "A": "一個model view viewModel框架，資料模型model，viewModel連線兩個區別：vue資料驅動，通過資料來顯示檢視層而不是節點操作。",
+            "num": 1,
+            "isKnown": false
+        },
+        {
+            "Q": "第一題",
+            "A": "321",
+            "num": 1,
+            "isKnown": false
+        },
+        {
+            "Q": "第一題",
+            "A": "321",
+            "num": 1,
+            "isKnown": false
+        }
+    ]
+}
